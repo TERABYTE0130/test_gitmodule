@@ -1,0 +1,2 @@
+# test_gitmodule
+自動化エンジンmoduleテストレポジトリ
